@@ -20,4 +20,4 @@ print(total_height)
 # average height formula
 average = total_height/len(student_heights)
 
-print(f"The average hegiht of the sudent is {average}")
+print(f"The average height of the sudent is {average}")
